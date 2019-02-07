@@ -1,4 +1,4 @@
 # ATXAPI
 
-## [Contants] (./contants.md)
-## [Functions] (./functions.md)
+## [Contants](./contants.md)
+## [Functions](./functions.md)
